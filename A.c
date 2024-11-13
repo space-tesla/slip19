@@ -22,6 +22,14 @@ int main(int argc, char *argv[]) {
 }
 
 
+
+
+How To Run
+--->  cc slip.c
+---> ./a.out
+--->  gcc slip.c -o slip
+---> ./slip slip.c
+
 /*$ ./a.out file1.txt directory1 file2.txt
 File: file1.txt
 Inode: 1234567
